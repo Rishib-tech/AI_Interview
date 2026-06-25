@@ -1,4 +1,4 @@
 .env
 ai-ag-proj/
-venv/
+.venv/
 __pycache__
